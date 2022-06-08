@@ -10,7 +10,7 @@ python3 Tomo2SPA.py motioncor foldername gain [--swap_xy] [--output_star] [--ima
 ```
 python3 Tomo2SPA.py stack foldername [--swap_xy] [--output_star] [--frame_number]
 ```
-This code belong to Dr.Hao Xiong from Yale University. If you have any question, please don't hesitate to contact hao.xiong@yale.edu
+This code belongs to Dr.Hao Xiong from Yale University. If you have any question, please don't hesitate to contact hao.xiong@yale.edu
 
 <!---
 xiong19912010/xiong19912010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
