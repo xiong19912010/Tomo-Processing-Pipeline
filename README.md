@@ -1,7 +1,4 @@
-# Tomo_Processing_Pipeline
-
-
-## Usage
+## Tomo_Processing_Pipeline Usage
 There are several defined functions in this package and it follows the Tomo processing pipeline. You can use each of the function seperately. 
 The functions include Motion Correction, Image Stacking, Image Alignment, Image CTF Calculation, Image Reconstruction, Image Particle Picking, Coordinate Preparation, Relion Star Preparation, Star File Splitting and Image Averaging. (Noted there are several third party packages but you can download them easily from their website).
 Below give some examples:
