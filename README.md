@@ -16,3 +16,7 @@ This code belongs to Dr.Hao Xiong from Yale University. If you have any question
 xiong19912010/xiong19912010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Image particle picking 
+<img width="319" alt="image" src="https://user-images.githubusercontent.com/94659159/179382531-6c285e60-e64a-40b5-af0d-77429e04f2bf.png">
+
